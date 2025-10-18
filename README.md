@@ -82,3 +82,6 @@ https://github.com/Techspawn2000/multicloud-vpn-lab/blob/main/Screenshot%202025-
 https://github.com/Techspawn2000/multicloud-vpn-lab/blob/main/Screenshot%202025-10-16%20114453.png?raw=true
 https://github.com/Techspawn2000/multicloud-vpn-lab/blob/main/Screenshot%202025-10-16%20114410.png?raw=true
 https://github.com/Techspawn2000/multicloud-vpn-lab/blob/main/Screenshot%202025-10-16%20114339.png?raw=true
+Updated README.md with diagrams and screenshots
+
+
