@@ -47,3 +47,25 @@ The setup includes:
 ---
 
 ## 📁 Repository Structure
+multicloud-vpn-lab/
+├── aws-demo/
+│ ├── vpc.tf
+│ ├── ec2_alb.tf
+│ ├── vpn_aws.tf
+│ ├── variables.tf
+│ ├── outputs.tf
+│ └── terraform.tfvars
+│
+├── azure-demo/
+│ ├── vpn_azure.tf
+│ ├── vpn_gateway.tf
+│ ├── main.tf
+│ ├── app_vm.tf
+│ ├── db_vm.tf
+│ ├── variables.tf
+│ └── outputs.tf
+│
+├── images/
+│ └── architecture-diagram.png
+│
+└── README.md
