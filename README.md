@@ -76,3 +76,4 @@ https://github.com/Techspawn2000/multicloud-vpn-lab/blob/main/Screenshot%202025-
 https://github.com/Techspawn2000/multicloud-vpn-lab/blob/main/Screenshot%202025-10-17%20163959.png?raw=true
 https://github.com/Techspawn2000/multicloud-vpn-lab/blob/main/Screenshot%202025-10-17%20163658.png?raw=true
 https://github.com/Techspawn2000/multicloud-vpn-lab/blob/main/Screenshot%202025-10-16%20132152.png?raw=true
+https://github.com/Techspawn2000/multicloud-vpn-lab/blob/main/Screenshot%202025-10-16%20132123.png?raw=true
