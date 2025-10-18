@@ -80,3 +80,4 @@ https://github.com/Techspawn2000/multicloud-vpn-lab/blob/main/Screenshot%202025-
 https://github.com/Techspawn2000/multicloud-vpn-lab/blob/main/Screenshot%202025-10-16%20132009.png?raw=true
 https://github.com/Techspawn2000/multicloud-vpn-lab/blob/main/Screenshot%202025-10-16%20114922.png?raw=true
 https://github.com/Techspawn2000/multicloud-vpn-lab/blob/main/Screenshot%202025-10-16%20114453.png?raw=true
+https://github.com/Techspawn2000/multicloud-vpn-lab/blob/main/Screenshot%202025-10-16%20114410.png?raw=true
